@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chris Gergler, but character limitis set me to @ChrisGergle
+- 👋 Hi, I’m Chris Gergler, but character limits set me to @ChrisGergle
 - 👀 I’m interested in game development, and software for helping people.
 - 🌱 I’m currently learning C++ and Unreal Engine
 - 💞️ I’m looking to collaborate on Game Projects
